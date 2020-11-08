@@ -1,0 +1,37 @@
+Table. Maximum Likelihood fits of 24 different nucleotide substitution models
+Model	Parameters	BIC	AICc	lnL	(+I)	(+G)	R	f(A)	f(T)	f(C)	f(G)	r(AT)	r(AC)	r(AG)	r(TA)	r(TC)	r(TG)	r(CA)	r(CT)	r(CG)	r(GA)	r(GT)	r(GC)
+GTR+G+I	121	525425.061	524047.903	-261902.929	0.30	0.85	3.44	0.308	0.288	0.276	0.128	0.033	0.045	0.066	0.035	0.273	0.014	0.050	0.284	0.003	0.159	0.030	0.007
+TN93+G+I	118	527067.454	525724.439	-262744.198	0.30	0.90	2.66	0.308	0.288	0.276	0.128	0.040	0.038	0.073	0.042	0.234	0.018	0.042	0.244	0.018	0.174	0.040	0.038
+HKY+G+I	117	527706.627	526374.994	-263070.476	0.30	0.88	2.61	0.308	0.288	0.276	0.128	0.039	0.037	0.093	0.042	0.201	0.017	0.042	0.210	0.017	0.225	0.039	0.037
+GTR+G	120	529169.544	527803.767	-263781.861	n/a	0.38	2.45	0.308	0.288	0.276	0.128	0.035	0.046	0.082	0.038	0.212	0.018	0.052	0.221	0.018	0.198	0.041	0.039
+TN93+G	117	529280.209	527948.576	-263857.267	n/a	0.38	2.36	0.308	0.288	0.276	0.128	0.043	0.041	0.071	0.046	0.224	0.019	0.046	0.234	0.019	0.171	0.043	0.041
+HKY+G	116	529917.943	528597.691	-264182.825	n/a	0.38	2.32	0.308	0.288	0.276	0.128	0.042	0.041	0.090	0.045	0.195	0.019	0.045	0.203	0.019	0.217	0.042	0.041
+T92+G+I	115	539144.213	537835.342	-268802.650	0.31	0.96	2.56	0.298	0.298	0.202	0.202	0.041	0.028	0.147	0.041	0.147	0.028	0.041	0.217	0.028	0.217	0.041	0.028
+T92+G	114	541081.247	539783.757	-269777.859	n/a	0.41	2.27	0.298	0.298	0.202	0.202	0.044	0.030	0.142	0.044	0.142	0.030	0.044	0.209	0.030	0.209	0.044	0.030
+K2+G+I	114	545574.651	544277.161	-272024.560	0.30	0.93	2.70	0.250	0.250	0.250	0.250	0.034	0.034	0.182	0.034	0.182	0.034	0.034	0.182	0.034	0.182	0.034	0.034
+K2+G	113	547301.994	546015.885	-272894.923	n/a	0.41	2.34	0.250	0.250	0.250	0.250	0.037	0.037	0.175	0.037	0.175	0.037	0.037	0.175	0.037	0.175	0.037	0.037
+GTR+I	120	550443.824	549078.048	-274419.001	0.33	n/a	2.22	0.308	0.288	0.276	0.128	0.042	0.071	0.074	0.045	0.224	0.013	0.079	0.234	0.003	0.178	0.029	0.007
+TN93+I	117	554091.593	552759.959	-276262.958	0.33	n/a	2.00	0.308	0.288	0.276	0.128	0.048	0.046	0.071	0.051	0.208	0.021	0.051	0.217	0.021	0.171	0.048	0.046
+HKY+I	116	554875.924	553555.672	-276661.815	0.33	n/a	1.96	0.308	0.288	0.276	0.128	0.048	0.046	0.086	0.051	0.185	0.021	0.051	0.193	0.021	0.206	0.048	0.046
+T92+I	114	562630.149	561332.659	-280552.309	0.33	n/a	1.94	0.298	0.298	0.202	0.202	0.049	0.034	0.135	0.049	0.135	0.034	0.049	0.199	0.034	0.199	0.049	0.034
+K2+I	113	569304.792	568018.683	-283896.322	0.33	n/a	2.02	0.250	0.250	0.250	0.250	0.041	0.041	0.167	0.041	0.167	0.041	0.041	0.167	0.041	0.167	0.041	0.041
+JC+G+I	113	572246.233	570960.124	-285367.042	0.31	1.32	0.50	0.250	0.250	0.250	0.250	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083
+JC+G	112	573752.865	572478.137	-286127.049	n/a	0.42	0.50	0.250	0.250	0.250	0.250	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083
+JC+I	112	592505.370	591230.642	-295503.301	0.33	n/a	0.50	0.250	0.250	0.250	0.250	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083
+GTR	119	603867.231	602512.835	-301137.396	n/a	n/a	1.80	0.308	0.288	0.276	0.128	0.050	0.086	0.070	0.053	0.211	0.009	0.096	0.220	0.005	0.168	0.021	0.010
+TN93	116	610330.901	609010.648	-304389.303	n/a	n/a	1.85	0.308	0.288	0.276	0.128	0.050	0.048	0.070	0.054	0.202	0.022	0.054	0.211	0.022	0.167	0.050	0.048
+HKY	115	611273.182	609964.311	-304867.135	n/a	n/a	1.84	0.308	0.288	0.276	0.128	0.050	0.048	0.084	0.053	0.181	0.022	0.053	0.189	0.022	0.202	0.050	0.048
+T92	113	615528.534	614242.425	-307008.193	n/a	n/a	1.83	0.298	0.298	0.202	0.202	0.051	0.035	0.132	0.051	0.132	0.035	0.051	0.195	0.035	0.195	0.051	0.035
+K2	112	621220.592	619945.864	-309860.913	n/a	n/a	1.90	0.250	0.250	0.250	0.250	0.043	0.043	0.164	0.043	0.164	0.043	0.043	0.164	0.043	0.164	0.043	0.043
+JC	111	643102.523	641839.177	-320808.569	n/a	n/a	0.50	0.250	0.250	0.250	0.250	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083	0.083
+NOTE.-- Models with the lowest BIC scores (Bayesian Information Criterion) are considered to describe the substitution pattern the best. For each model, AICc value (Akaike Information Criterion, corrected), Maximum Likelihood value (lnL), 
+and the number of parameters (including branch lengths) are also presented [1]. Non-uniformity of evolutionary rates among sites may be modeled by using a discrete Gamma distribution (+G) with 5 rate categories and by assuming that a certain 
+fraction of sites are evolutionarily invariable (+I). Whenever applicable, estimates of gamma shape parameter and/or the estimated fraction of invariant sites are shown.Assumed or estimated values of transition/transversion bias (R) are shown 
+for each model, as well. They are followed by nucleotide frequencies (f) and rates of base substitutions (r) for each nucleotide pair.Relative values of instantaneous r should be considered when evaluating them. For simplicity, sum of r values 
+is made equal to 1 for each model. For estimating ML values, a tree topology was automatically computed. This analysis involved 57 nucleotide sequences. Codon positions included were 1st+2nd+3rd+Noncoding. There were a total of 11775 positions 
+in the final dataset. Evolutionary analyses were conducted in MEGA X [2] 
+
+Abbreviations: TR: General Time Reversible; HKY: Hasegawa-Kishino-Yano; TN93: Tamura-Nei; T92: Tamura 3-parameter; K2: Kimura 2-parameter; JC: Jukes-Cantor./div> 
+1. Nei M. and Kumar S. (2000). Molecular Evolution and Phylogenetics. Oxford University Press, New York.
+2. Kumar S., Stecher G., Li M., Knyaz C., and Tamura K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution 35:1547-1549.
+Disclaimer: Although utmost care has been taken to ensure the correctness of the caption, the caption text is provided "as is" without any warranty of any kind. Authors advise the user to carefully check the caption prior to its use for any purpose and report any errors or problems to the authors immediately (www.megasoftware.net). In no event shall the authors and their employers be liable for any damages, including but not limited to special, consequential, or other damages. Authors specifically disclaim all other warranties expressed or implied, including but not limited to the determination of suitability of this caption text for a specific purpose, use, or application.
